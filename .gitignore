@@ -1,0 +1,14 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略临时文件
+*.swp
+*.tmp
+
+# 忽略AI自动生成的缓存或索引
+.cache/
+index.json
+
+# 忽略个人隐私内容（如有）
+private/ 
